@@ -45,7 +45,7 @@ CR remains an evolving research programme. Its connection to observed particle c
 
 ## Feedback
 
-Questions, corrections, and collaboration proposals are welcome through GitHub Issues and Discussions. You can also contact me via email: complex.relativity@outlook.com.
+Questions, corrections, and collaboration proposals are welcome through GitHub Discussions. You can also contact me via email: complex.relativity@outlook.com.
 <br>
 <br>
 <br>
