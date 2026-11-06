@@ -33,6 +33,12 @@ An expanded Chinese adaptation for general readers, with additional explanations
 
 These documents will be revised and supplemented as the research develops.
 
+## Related Publication
+
+### Can Light Tell Whether Spacetime Is Complex?
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24003062.svg)](https://doi.org/10.5281/zenodo.24003062)
+
 ## Research Scope
 
 Current research examines classical gravitational dynamics, interacting response sectors parameterized by **C**, field-space curvature, scattering amplitudes, and quantum effective field theory.
