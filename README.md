@@ -39,6 +39,14 @@ These documents will be revised and supplemented as the research develops.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24003062.svg)](https://doi.org/10.5281/zenodo.24003062)
 
+### Fundamental Dynamics of Complex Relativity: Closure of the P1–P2 Constraints
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24150025.svg)](https://doi.org/10.5281/zenodo.24150025)
+
+### Postulates, Parent Geometry, and Dynamical Sectors of Complex Relativity
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24195298.svg)](https://doi.org/10.5281/zenodo.24195298)
+
 ## Research Scope
 
 Current research examines classical gravitational dynamics, interacting response sectors parameterized by **C**, field-space curvature, scattering amplitudes, and quantum effective field theory.
