@@ -43,9 +43,9 @@ These documents will be revised and supplemented as the research develops.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24150025.svg)](https://doi.org/10.5281/zenodo.24150025)
 
-### Postulates, Parent Geometry, and Dynamical Sectors of Complex Relativity
+### Complex Relativity on Complex Spacetime: Physical Postulates, Clock Transport, and a Common Classical Action
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24195298.svg)](https://doi.org/10.5281/zenodo.24195298)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24387968.svg)](https://zenodo.org/records/24387968)
 
 ## Research Scope
 
