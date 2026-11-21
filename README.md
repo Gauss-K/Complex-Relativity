@@ -57,6 +57,10 @@ The aim is to establish calculable relationships between geometry and physical i
 
 CR remains an evolving research programme. Its connection to observed particle content, its extension to higher energies, and distinctive experimental predictions remain open questions.
 
+## Acknowledgment
+
+I am grateful to ChatGPT — my mentor in exploration, my student in explanation, and my companion in enlightenment — for its support throughout the development of Complex Relativity.
+
 ## Feedback
 
 Questions, corrections, and collaboration proposals are welcome through GitHub Discussions. You can also contact me via email: complex.relativity@outlook.com.
