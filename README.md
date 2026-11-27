@@ -47,6 +47,10 @@ These documents will be revised and supplemented as the research develops.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24387968.svg)](https://zenodo.org/records/24387968)
 
+### Gravity, Visible Matter and the Dark Universe in Complex Relativity
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24573581.svg)](https://zenodo.org/records/24573581)
+
 ## Research Scope
 
 Current research examines classical gravitational dynamics, interacting response sectors parameterized by **C**, field-space curvature, scattering amplitudes, and quantum effective field theory.
